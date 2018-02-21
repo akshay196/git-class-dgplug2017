@@ -3,7 +3,7 @@ Second snapshot
 Inserted next line  new word
 Snapshot 5
 Snapshot 6
-
+Something
 
 
 
